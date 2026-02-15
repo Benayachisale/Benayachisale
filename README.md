@@ -13,7 +13,7 @@
 - 🌱 I'm constantly learning **new technologies and best practices**
 - 👨‍🏫 I'm a **Teacher by profession**, passionate about sharing knowledge
 - 💬 Ask me about **PHP, Node.js, Python, React**
-- 📫 How to reach me: **benaya.chisale@email.com**
+- 📫 How to reach me: **chisalebenaya@gmail.com**
 - 📍 Based in **Zomba, Malawi**
 
 ---
